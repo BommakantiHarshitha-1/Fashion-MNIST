@@ -14,8 +14,4 @@ MNIST is too easy. Convolutional nets can achieve 99.7% on MNIST. Classic machin
 
 Get the Data
 You can use direct links to download the dataset. The data is stored in the same format as the original MNIST data.
-Name	Content	Examples	Size	Link
-train-images-idx3-ubyte.gz	training set images	60,000	26 MBytes	Download
-train-labels-idx1-ubyte.gz	training set labels	60,000	29 KBytes	Download
-t10k-images-idx3-ubyte.gz	test set images	10,000	4.2 MBytes	Download
-t10k-labels-idx1-ubyte.gz	test set labels	10,000	5.0 KBytes	Download
+
